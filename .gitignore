@@ -1,0 +1,37 @@
+# ========================
+# Java / IDE / OS ignores
+# ========================
+
+# Compiled class files
+*.class
+out/
+bin/
+build/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+*.eclipse
+*.classpath
+*.project
+.settings/
+
+# Maven / Gradle
+target/
+.gradle/
+
+# ========================
+# LMS-specific ignores
+# ========================
+
+# Database config (contains real credentials — never commit!)
+resources/config.properties
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db

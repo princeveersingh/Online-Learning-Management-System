@@ -1,0 +1,14 @@
+# ============================================================
+# LMS Database Configuration — EXAMPLE FILE
+# ============================================================
+# Copy this file to config.properties and fill in your credentials.
+# NEVER commit config.properties to version control!
+#
+# cp resources/config.properties.example resources/config.properties
+# ============================================================
+
+db.host=localhost
+db.port=3306
+db.name=lms_db
+db.user=root
+db.password=YOUR_MYSQL_PASSWORD_HERE
