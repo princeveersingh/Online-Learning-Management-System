@@ -81,3 +81,10 @@ The project follows a layered architecture:
                           |
                           v
                        MySQL
+
+Utilizes Java Collections and Generics to manage application data efficiently.
+
+
+
+Provides error handling, input validation, and database transaction management for reliable operations.
+
