@@ -92,5 +92,3 @@ Designed with a modular and maintainable structure to support future enhancement
 
 
 Supports CRUD (Create, Read, Update, Delete) operations for efficient management of courses, lessons, assignments, and user records.
-
-@Arsh Gautam
